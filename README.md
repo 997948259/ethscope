@@ -1,4 +1,3 @@
-# ethscope
-A Transaction-centric Security Analytics Framework to Detect Malicious Smart Contracts on Ethereum
+# EthScope
 
 We will release our system ......
